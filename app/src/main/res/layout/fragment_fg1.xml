@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fg1_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff000"
+    tools:context="com.example.llw.demo_viewpager_viewpager.Fg1">
+
+
+    <TextView
+        android:id="@+id/text_one"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/hello_blank_fragment" />
+
+</FrameLayout>
